@@ -1,7 +1,8 @@
 # Some homeworks for MADE Big Data Academy (2019 intake)
--------
 
 > **TL;DR:** Свалка непричёсанных ноутбуков оставшихся после обучения в MADE / Some machine learning courses` materials in Russian.
+
+-------
 
 Hi! 
 
